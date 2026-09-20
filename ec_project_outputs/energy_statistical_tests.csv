@@ -1,0 +1,4 @@
+Pair,WilcoxonStatistic,PValue,HolmAdjustedPValue
+CCO vs GA,6.0,0.4375,1.0
+CCO vs PSO,6.0,0.4375,1.0
+GA vs PSO,6.0,0.4375,1.0
